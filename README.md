@@ -3,3 +3,5 @@ This project implements a Logistic Regression model using scikit-learn to predic
 **Features**
 
 Handles missing values in both numerical and categorical data. Encodes categorical variables using Label Encoding. Splits data into training and testing sets. Trains a Logistic Regression model. Evaluates model accuracy on the test set. Applies the trained model to predict status for new data. Downloads the updated dataset after predictions.
+
+**Model_Accuracy** - 96.38%
