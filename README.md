@@ -6,4 +6,4 @@ Handles missing values in both numerical and categorical data. Encodes categoric
 
 **Model_Accuracy** - 96.38%
 
-**Caution**: Status column - Not_Canceled:0, Canceled:1
+**Note**: Status column - Not_Canceled:0, Canceled:1
